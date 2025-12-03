@@ -1,0 +1,14 @@
+debug/logpanel.o
+debug/main.o
+debug/mainwindow.o
+debug/settingsdialog.o
+debug/tasklistpanel.o
+debug/treeitem.o
+debug/treemodel.o
+debug/qrc_resourses.o
+debug/qrc_qmake_qmake_qm_files.o
+debug/moc_logpanel.o
+debug/moc_mainwindow.o
+debug/moc_settingsdialog.o
+debug/moc_tasklistpanel.o
+debug/moc_treemodel.o

@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>Resources/Add.svg</file>
+        <file>Resources/Change.svg</file>
+        <file>Resources/DB.svg</file>
+        <file>Resources/DownloadDB.svg</file>
+        <file>Resources/DownloadError.svg</file>
+        <file>Resources/DownloadLic.svg</file>
+        <file>Resources/FileDownloaded.svg</file>
+        <file>Resources/FileDownloading.svg</file>
+        <file>Resources/FileOnDisk.svg</file>
+        <file>Resources/Log.svg</file>
+        <file>Resources/Logo.svg</file>
+        <file>Resources/Program.svg</file>
+        <file>Resources/Remove.svg</file>
+        <file>Resources/Settings.svg</file>
+        <file>Resources/Stop.svg</file>
+        <file>Resources/TaskList.svg</file>
+        <file>Resources/Update.svg</file>
+        <file>Resources/UpdateWIZARD.ico</file>
+        <file>Resources/about.png</file>
+        <file>Resources/ribbonMaximize.png</file>
+        <file>Resources/ribbonMinimize.png</file>
+    </qresource>
+</RCC>
